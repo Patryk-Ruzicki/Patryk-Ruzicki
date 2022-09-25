@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💬 Are you have a question? You can ask me [here](https://github.com/Patryk-Ruzicki/Patryk-Ruzicki/issues).
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk-Ruzicki&theme=gruvbox_light&show_icons=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk-Ruzicki&theme=gruvbox_light&show_icons=true)-->
 
 
