@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Are you have a question? You can ask me [here](https://github.com/Patryk-Ruzicki/Patryk-Ruzicki/issues).
 -->
+
 ### 🧰 • Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,13 +25,12 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br /> <br />
 
 #
 
 ### 📊 • Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack)
+![ArcySanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk-Ruzicki&theme=moltack&show_icons=true)-->
 
 
