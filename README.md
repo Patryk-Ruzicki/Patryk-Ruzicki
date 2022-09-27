@@ -26,6 +26,8 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg
+
+https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 -->
 <!--<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />-->
           
