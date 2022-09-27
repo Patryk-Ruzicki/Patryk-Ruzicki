@@ -38,6 +38,6 @@ https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 ### 📊 • Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack">
-<img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk-Ruzicki&theme=moltack&show_icons=true">
+<!--<img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patryk-Ruzicki&theme=moltack&show_icons=true">-->
 
 
