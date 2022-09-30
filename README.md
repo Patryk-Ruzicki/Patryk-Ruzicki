@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/patryk-r-567b3424a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "mailto:arcysanta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+<br/>
 #
 
 ### 🧰 • Languages and Tools
