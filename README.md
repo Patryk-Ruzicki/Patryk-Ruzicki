@@ -34,6 +34,7 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
 
 https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 -->
