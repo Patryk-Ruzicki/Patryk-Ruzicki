@@ -1,4 +1,4 @@
-## Hi, I'm Patryk 👋
+## Hi, I'm Patryk
 
 ### 🔖 • Social links
 
