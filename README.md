@@ -42,8 +42,9 @@ https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
           
 <br/>
 
-<!--#
+#
 
+<!--
 ### 📊 • Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack">
