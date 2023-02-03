@@ -1,11 +1,10 @@
 ## Hi, I'm Patryk
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=patryk-ruzicki alt=patryk-ruzicki/> </p>
-
 ### 🔖 • Social links
 
 <a href="https://www.linkedin.com/in/patryk-r-567b3424a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "mailto:arcysanta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="left"><img src=https://komarev.com/ghpvc/?username=patryk-ruzicki alt=patryk-ruzicki/></p>
 <br/>
 #
 
@@ -50,6 +49,6 @@ https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 ### 📊 • Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?patryk-ruzicki&layout=compact&langs_count=7&theme=moltack"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patryk-ruzicki&layout=compact&langs_count=7&theme=moltack"/>
 
 
