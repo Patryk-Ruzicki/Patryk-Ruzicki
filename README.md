@@ -36,8 +36,7 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
-
-https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
+    https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 -->
 <!--<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />-->
           
@@ -45,11 +44,7 @@ https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 
 #
 
-
 ### 📊 • Stats
-
 <!--<p align="left"><img src=https://komarev.com/ghpvc/?username=patryk-ruzicki alt=patryk-ruzicki/></p>-->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack&include_all_commits=true&count_private=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patryk-ruzicki&layout=compact&langs_count=7&theme=moltack"/>
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack&include_all_commits=true&count_private=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patryk-ruzicki&layout=compact&langs_count=7&theme=moltack" />
