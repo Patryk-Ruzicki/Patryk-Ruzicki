@@ -41,10 +41,11 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
 <!--<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />-->
           
 <br/>
-
+<!--
 #
 
 ### 📊 • Stats
-<!--<p align="left"><img src=https://komarev.com/ghpvc/?username=patryk-ruzicki alt=patryk-ruzicki/></p>-->
+<!--<p align="left"><img src=https://komarev.com/ghpvc/?username=patryk-ruzicki alt=patryk-ruzicki/></p>--\>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patryk-Ruzicki&count_private=true&theme=moltack&include_all_commits=true&count_private=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patryk-ruzicki&layout=compact&langs_count=7&theme=moltack" />
+-->
