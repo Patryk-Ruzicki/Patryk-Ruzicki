@@ -1,14 +1,14 @@
 ## Hi, I'm Patryk
 
-### 🔖 • Social links 
+### 📲 • Social links 
 
-<a href="https://www.linkedin.com/in/patryk-r-567b3424a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="www.linkedin.com/in/patryk-ruzicki"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "mailto:arcysanta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
 
 #
 
-### 🧰 • Languages and Tools
+### ⚙️ • Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
