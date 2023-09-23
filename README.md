@@ -2,6 +2,8 @@
 
 <p>I'm currently working on a project for the "Zwolnieni z teorii" olympisc.</p>
 
+#
+
 ### 📲 • Social links 
 
 <a href="https://www.linkedin.com/in/patryk-ruzicki"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
