@@ -1,7 +1,7 @@
 ## Hi, I'm Patryk
 
 <p>I'm currently working on a project for the "Zwolnieni z teorii" olympisc.</p>
-<p>Now i am learning PHP, React, C# and xaml</p>
+<p>Now i am learning PHP, React, C# and xaml.</p>
 
 #
 
