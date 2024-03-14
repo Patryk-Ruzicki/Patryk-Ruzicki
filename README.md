@@ -2,6 +2,7 @@
 
 <p>I'm currently working on a project for the "Zwolnieni z teorii" olympisc.</p>
 <p>Now i am learning PHP, React, C#, xaml and xamarin.</p>
+<p>I'm currently trying to understand how docker works?</p>
 
 #
 
