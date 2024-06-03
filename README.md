@@ -1,6 +1,6 @@
 ## Hi, I'm Patryk
 
-<p>I'm currently working on a <a href="https://github.com/Kariera-Obiecana">@Kariera-Obiecana</a> project for the "Zwolnieni z teorii" olympisc.</p>
+<p>I'm currently taking programming qualification exams.</p>
 <p>Now i am learning PHP, React, C#, xaml.</p>
 <p>I'm currently trying to understand how docker works?</p>
 
