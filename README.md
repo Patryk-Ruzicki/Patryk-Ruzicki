@@ -34,9 +34,10 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-          
-          
+<img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />                    
           
           
 
@@ -45,17 +46,21 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-ori
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
 
 https://www.youtube.com/channel/UC12zRUobBw5cVHwh-JqJPOA/featured
 
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 -->
-<!--<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />-->
+<!--
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="" />
+align="left" alt="" width="30px" style="padding-right:10px;" 
+-->
 
 <!--
 
