@@ -1,10 +1,10 @@
 ## Hi, I'm Patryk
 
-<p>I'm currently taking programming qualification exams.</p>
+<!-- <p>I'm currently taking programming qualification exams.</p>
 <p>Now i am learning PHP, React, C#, xaml.</p>
 <p>I'm currently trying to understand how docker works?</p>
 
-#
+# -->
 
 ### 📲 • Social links 
 
